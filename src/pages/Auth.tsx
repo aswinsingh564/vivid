@@ -24,7 +24,7 @@ const Auth = () => {
     <div className="min-h-screen flex items-center justify-center p-4 bg-gradient-to-b from-background to-background/95">
       <Card className="w-full max-w-md p-8 shadow-elevated rounded-3xl">
         <div className="text-center mb-8">
-          <h1 className="text-4xl font-bold gradient-teal bg-clip-text text-transparent mb-2">
+          <h1 className="text-4xl font-bold text-foreground mb-2">
             Vivid
           </h1>
           <p className="text-muted-foreground">Connect & Share Your Moments</p>

@@ -39,7 +39,7 @@ const Home = () => {
       {/* Top Bar */}
       <header className="sticky top-0 z-10 bg-card/80 backdrop-blur-xl border-b border-border px-4 py-3">
         <div className="max-w-2xl mx-auto flex items-center justify-between">
-          <h1 className="text-2xl font-bold gradient-teal bg-clip-text text-transparent">
+          <h1 className="text-2xl font-bold text-foreground">
             Vivid
           </h1>
           <div className="flex items-center gap-4">
